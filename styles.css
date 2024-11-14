@@ -1,0 +1,103 @@
+/* Custom styles */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+/* Custom styles for the sign-in page */
+body {
+    background-color: #f4f7fc;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.form-group input {
+    border-radius: 5px;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+.text-center {
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Custom styles for the sign-up page */
+body {
+    background-color: #f4f7fc;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.form-group input {
+    border-radius: 5px;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+.text-center {
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.btn-primary {
+    background-color: green;
+}
